@@ -1,5 +1,16 @@
 # spark-ML
 
+## Project Details
+
+1. project.ipynb
+
+   Following instructions laid out in YouTube tutorial:
+   https://www.youtube.com/watch?v=JJCq21Dc-Us
+
+2. valorant.ipynb
+
+   Test Valorant data collected to train model and learn ML.
+
 ## Model Evaluation Results
 
 1. Linear Regression
